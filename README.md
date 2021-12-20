@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin-kim-92&layout=compact&exclude_repo=yujin-kim-92.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Blog](https://img.shields.io/badge/yujin-kim-92.github.io-green.svg)](https://yujin-kim-92.github.io/)
+[![Blog](https://img.shields.io/badge/yujin92.notion.svg)](https://yujin92.notion.site/8be75711fae84a99a9b41000fa4cf503)
